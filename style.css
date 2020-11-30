@@ -1,28 +1,4 @@
-* {
-	margin: 0;
-	border: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
-body{
-	background-color: rgb(0, 206, 255);
-}
-
-#content{
-	display: flex;
-	flex-wrap: wrap;
-}
-
-.tweet{
- background-color: rgb(1, 233, 255);
-}
-
-.frase{
-
-}
-
-.analise{
-	font-size: 14px;
-	background-color: white;
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
 }
