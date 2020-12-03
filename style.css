@@ -2,3 +2,30 @@ a:hover, a:visited, a:link, a:active
 {
     text-decoration: none;
 }
+
+#content{
+	display: flex;
+	flex-direction: column;
+}
+
+.carde{
+	margin-bottom: 15px;
+}
+
+.frase{
+	color: black;
+	text-align: center;
+}
+
+#frase-img1{
+
+}
+
+#frase-img2{
+ 	height: 20rem;
+ 	width: 15rem;
+}
+
+#frase-img3{
+
+}
