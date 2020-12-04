@@ -4,7 +4,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 #content{
-    background: #265573;
+    background-image: linear-gradient(to bottom, #265573 , #025373);
     padding-top: 3vh;
 	display: flex;
 	flex-direction: column;
@@ -24,7 +24,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 .card-header {
-    background-color: #F5F5F5;
+    background-color: #F0F0F0;
 /*#0C154A*/
 }
 
