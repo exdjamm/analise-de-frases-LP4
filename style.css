@@ -4,9 +4,12 @@ a:hover, a:visited, a:link, a:active
 }
 
 #content{
+    background: #265573;
+    padding-top: 3vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+    padding-bottom: 1vh;
 }
 
 .carde{
@@ -16,6 +19,10 @@ a:hover, a:visited, a:link, a:active
 .frase{
 	color: black;
 	text-align: center;
+}
+
+.card-header {
+    background-color: #F5F5F5;
 }
 
 #frase-img1{
@@ -34,10 +41,11 @@ a:hover, a:visited, a:link, a:active
 .rodape{
 	position: fixed;
 	left: 1px;
+    padding-left: 0.3vw;
+    padding-right: 0.3vw;
 	bottom: 0;
 	border-radius: 0 15px 0 0;
-	background-color: blue;
-
+	background-color: #F5F5F5;
 	text-align: justify-all;
 }
 
@@ -45,7 +53,7 @@ a:hover, a:visited, a:link, a:active
 	display: inline;
 	vertical-align: middle;
 
-	color: white;
+	color: #112A40;
 	font-style: border;
 	margin-right: 5px;
 }
