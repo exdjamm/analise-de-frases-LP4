@@ -14,6 +14,8 @@ a:hover, a:visited, a:link, a:active
 
 .carde{
 	margin-bottom: 15px;
+    background-color: #023859;
+    padding: 2px;
 }
 
 .frase{
@@ -23,6 +25,15 @@ a:hover, a:visited, a:link, a:active
 
 .card-header {
     background-color: #F5F5F5;
+/*#0C154A*/
+}
+
+.card-title {
+    color: white;
+}
+
+.card-text {
+    color: white;
 }
 
 #frase-img1{
